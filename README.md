@@ -4,6 +4,8 @@
 
 做得太折磨了,特来助新生一臂之力.
 
+感谢github用户[irunab](https://github.com/lz61/Fudan-Freshman-Test-2025/issues?q=is%3Aissue state%3Aclosed author%3Airunab)、 [XREAL1TY](https://github.com/lz61/Fudan-Freshman-Test-2025/issues?q=is%3Aissue state%3Aclosed author%3AXREAL1TY)、 [Liu-Steve](https://github.com/lz61/Fudan-Freshman-Test-2025/issues?q=is%3Aissue state%3Aclosed author%3ALiu-Steve)在项目代码中的贡献.
+
 ## 说明
 
 在根目录下有: **实验室安全错题解析**.docx.
